@@ -12,7 +12,7 @@ const Decrement = () => {
         setObj({ value: obj.value - 1 });
       }}
     >
-      Decrement
+      Decrement (-)
     </button>
   );
 };
